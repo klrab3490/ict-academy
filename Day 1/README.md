@@ -26,6 +26,8 @@
 ├── Conditional Statements # Conditional statements used for decision-making in code.
 │   ├── if-else          # if-else statement to execute code based on a condition.
 │   ├── if-elif-else     # if-elif-else chain to check multiple conditions.
-│   ├── switch-case      # switch-case statement (in languages that support it) for multiple condition checks.
+├── Looping Statements   # Looping statements used for 
+│   ├── for              # 
+│   ├── while            # Conditional Loop(We know where to start, end, what to do, how to move)
 
 ```

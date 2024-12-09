@@ -1,1 +1,4 @@
-# ict-academy
+# ICT Academy Training
+---
+
+Language: Python
