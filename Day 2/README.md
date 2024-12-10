@@ -40,4 +40,15 @@
 │   │   ├── Values Stored as key: value pair            # How its stored
 |   |   ├── Access: variable[key]                       # How to acces the value stored at key
 │   │   ├── Add or update: variable[key] = value        # Add a new key-value pair or update an existing one
+├── User Defined Functions
+|   ├── Define: 
+```
+def function_name(parameters):
+    # Function body
+    return result
+
+```
+|   ├── Function call: function_name(arguments)
+|   ├── Get dat On Function: help(function_name)
+
 ```
