@@ -8,6 +8,7 @@
     - **Inheritance**
     - **Polymorphism**
 - **Desktop Application**
+- **Virtual Environment**
 ---
 
 ### Class
@@ -249,3 +250,19 @@ Here:
 
 ---
 
+### Virtual Environment
+
+```cmd
+python - venv environment_name
+environment_name\scripts\activate.bat
+```
+
+```ubuntu terminal
+source venv/bin/activate
+```
+
+---
+
+### Install
+
+- Package: pip install pyinstaller
