@@ -266,3 +266,4 @@ source venv/bin/activate
 ### Install
 
 - Package: pip install pyinstaller
+- Generate App: pyinstaller python.py --onefile --name Executable_File_Name
