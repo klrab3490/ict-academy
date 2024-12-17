@@ -5,7 +5,7 @@ Welcome to the ICT Academy Training Program! This repository contains resources 
 
 ## Technologies Covered
 
-1. **Python:**
+### 1. **Python:**
 - Introduction to Python Programming
 - Data Types and Variables
 - Functions and Modules
@@ -14,14 +14,14 @@ Welcome to the ICT Academy Training Program! This repository contains resources 
 - Error and Exception Handling
 - Libraries and Frameworks
 
-2. **Tkinter:**
+### 2. **Tkinter:**
 - Introduction to GUI Development with Tkinter
 - Creating Windows, Frames, and Widgets
 - Event Handling
 - Working with Forms and Inputs
 - Developing Interactive Applications
 
-3. **Django:**
+### 3. **Django:**
 - Introduction to Django Web Framework
 - Setting up a Django Project
 - Understanding Django Models, Views, and Templates
@@ -30,7 +30,7 @@ Welcome to the ICT Academy Training Program! This repository contains resources 
 - Authentication and User Management
 - Using Django's ORM
 
-4. **Flask:**
+### 4. **Flask:**
 - Introduction to Flask Web Framework
 - Setting up a Flask Project
 - Routes and Views in Flask
