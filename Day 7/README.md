@@ -13,8 +13,6 @@ Make sure MongoDB is installed and running on your system. Follow the steps belo
 #### 2. **Install `pymongo`**
 `pymongo` is the official Python driver for MongoDB.
 
-Install it via `pip`:
-
 ```bash
 pip install pymongo
 ```
@@ -35,15 +33,6 @@ db = client["mydatabase"]
 
 # Create or access a collection
 collection = db["mycollection"]
-
-# Insert a sample document
-data = {"name": "John Doe", "age": 30, "city": "New York"}
-collection.insert_one(data)
-print("Document inserted successfully!")
-
-# Retrieve and print all documents
-for document in collection.find():
-    print(document)
 ```
 
 ---
@@ -55,8 +44,3 @@ for document in collection.find():
 To interact with MongoDB further, you can use MongoDB Compass (GUI) or the command-line shell `mongo`.
 
 ---
-
-#### Notes:
-- MongoDB runs on port `27017` by default.
-- Replace the connection URI with your server details if MongoDB is hosted remotely.
-- For advanced queries and operations, refer to the [pymongo documentation](https://pymongo.readthedocs.io/).
