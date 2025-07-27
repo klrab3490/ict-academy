@@ -1,0 +1,7 @@
+[submodule "Django-App"]
+    path = Day 7/Django-App
+    url = https://github.com/klrab3490/Django-App.git
+
+[submodule "FlaskApp2"]
+    path = Day 8/FlaskApp2
+    url = https://github.com/klrab3490/Flask-App.git
